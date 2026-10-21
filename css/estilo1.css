@@ -1,0 +1,74 @@
+body{
+    background-color: red;
+}
+.principal{
+    background-color: yellow;
+    padding: 5px;
+
+}
+header{
+    background-color:greenyellow;
+    padding: 5px;
+    text-align: center;
+    border-style: solid;
+    border-color: green;
+}
+h1{
+
+}
+h3{
+
+}
+.contenido{
+    background-color: greenyellow;
+    padding: 5px;
+    border: 3px;
+    border-style: outset;
+    border-color: green;
+    display: flex;
+}
+nav{
+    background-color: beige;
+    width: 20%;
+    height: 25%;
+    margin: 2px;
+    padding: 5px;
+    border-style: unset;
+    border: 1px;
+}
+section{
+   background-color: azure;
+   width: 35%;
+   margin: 2px;
+   padding: 5px;
+}
+footer{
+    background-color: greenyellow;
+    border: 3px;
+    border-style: solid;
+    border-color: green;
+    margin-top: 5px;
+    padding: 5px;
+    text-align: center;
+    color: blue;
+}
+ul{
+    list-style: none;
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+}
+.caja{
+    background-color: gainsboro;
+    padding: 3px;
+    margin: 3px;
+    border: 2px;
+    border-style: outset;
+    border-color: grey;
+}
+img{
+    height: 80%;
+    width: 250px;
+    border: 5px;
+}
